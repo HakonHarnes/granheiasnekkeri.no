@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(235, 235, 235);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    width: 100vw;
+    height: 90vh;
+    place-items: center center;
+}
+
+img {
+    width: 500px;
+}
